@@ -15,8 +15,6 @@ This is part of the **DevelopersHub AI/ML Engineering Internship – Advanced Ta
 Since the dataset is large, it is **not included** in this repository.  
 Please download it directly from Kaggle and place it inside the `data/` folder.
 
-(Optional: A small sample dataset `sample_tickets.csv` is included for testing.)
-
 ---
 
 ## 🛠 Approach
