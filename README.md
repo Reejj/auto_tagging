@@ -36,3 +36,5 @@ Please download it directly from Kaggle and place it inside the `data/` folder.
 ## 📈 Results
 - Zero-shot classification successfully tags support tickets into relevant categories.  
 - Example:
+- Ticket: "I can't login to my account"
+- Top 3 predicted tags: ['login issue', 'billing', 'bug']
